@@ -11,7 +11,7 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" href="Home/Index/">BMW_MVC</a>
+                <a class="navbar-brand" href="/Home/Index">BMW_MVC</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -19,13 +19,16 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" href="/Home/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Modelos">Modelos</a>
+                            <a class="nav-link text-dark" href="https://www.bmw.com.br/pt/all-models.html">Modelos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" href="/Formulario_past/Formulario">Formulario de Veiculo</a>
+                            <a class="nav-link text-dark" href="https://www.bmw.com.br/pt/index.html">Soluções e Serviços</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Formulario_past/Formulario">Recall</a>
                         </li>
                     </ul>
                 </div>
@@ -40,7 +43,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - BMW_MVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2021 - BMW_MVC - <a href="/Home/Formulario_past/Formulario">Recall</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
