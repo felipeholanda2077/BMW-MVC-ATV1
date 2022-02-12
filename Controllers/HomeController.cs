@@ -38,6 +38,11 @@ namespace BMW_MVC.Controllers
             return View();
         }
 
+        public IActionResult Proposta()
+        {
+            return View();
+        }
+
         
     }
 }

@@ -14412,8 +14412,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Formulario_past\\Formulario.cshtml",
-      "TargetPath": "Views\\Home\\Formulario_past\\Formulario.cshtml",
+      "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Cadastrado.cshtml",
+      "TargetPath": "Views\\Home\\Cadastrado.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14422,8 +14422,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Formulario_past\\Cadastro.cshtml",
-      "TargetPath": "Views\\Home\\Formulario_past\\Cadastro.cshtml",
+      "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Formulario.cshtml",
+      "TargetPath": "Views\\Home\\Formulario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14432,8 +14432,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Cadastro.cshtml",
+      "TargetPath": "Views\\Home\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Proposta.cshtml",
+      "TargetPath": "Views\\Home\\Proposta.cshtml",
       "FileKind": "mvc"
     },
     {

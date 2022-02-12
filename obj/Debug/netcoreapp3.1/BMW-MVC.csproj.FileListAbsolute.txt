@@ -57,8 +57,6 @@ C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.Razor
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.TagHelpers.input.cache
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.TagHelpers.output.cache
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.RazorCoreGenerate.cache
-C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Formulario_past\Cadastro.cshtml.g.cs
-C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Formulario_past\Formulario.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Modelos.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -74,3 +72,7 @@ C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.dll
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.pdb
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.genruntimeconfig.cache
 C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\BMW-MVC.csproj.CopyComplete
+C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Formulario.cshtml.g.cs
+C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastrado.cshtml.g.cs
+C:\Users\felip\OneDrive\Documentos\BMW-MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Proposta.cshtml.g.cs
