@@ -1,23 +1,35 @@
-@{
-    ViewData["Title"] = "Formulario";
-}
-
 @model Formulario
+
+<style>
+    body {
+        background-image: url("https://img.olhardigital.com.br/wp-content/uploads/2021/03/BMW-i4-tem-600-km-de-autonomia-e-sera-lancado-ainda-em-2021.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+</style>
+
 <div class="row justify-content-md-center">
-    <form asp-action="Cadastro" method="POST" class="col-md-4">
-        <input type="hidden" asp-for="Id" />
-        <div class="form-group">
-            <label asp-for="Nome">Nome</label>
-            <input asp-for="Nome" class="form-control" required/>
-        </div>
-        <div class="form-group">
-            <label asp-for="Modelo">Modelo</label>
-            <input asp-for="Modelo" class="form-control" required/>
-        </div>
-        <div>
-            <label asp-for="Ano">Ano do Veiculo</label>
-            <input asp-for="Ano" required/>
-        </div>
-        <input type="submit" value="Salvar" class="btn btn-primary"/>
+    <form method="POST" asp-action="Cadastro" class="col-md-4">
+
+        <p>
+            <label asp-for="Nome">Informe seu Nome:</label>
+            <input asp-for="Nome" required>
+        </p>
+
+        <p>
+            <label asp-for="Modelo">Modelo:</label>
+            <input asp-for="Modelo" required>
+        </p>
+
+        <p>
+            <label asp-for="Ano">Informe o ano do seu veiculo:</label>
+            <input asp-for="Ano" type="date">
+        </p>
+
+        <p>
+            <input type="submit" value="Cadastrar">
+        </p>
+
     </form>
 </div>
