@@ -714,7 +714,8 @@ input {
 /*=============== FOOTER ===============*/
 .footer__container {
   row-gap: 5rem;
-  position: relative;
+  position: flex;
+  right: 650px;
 }
 
 .footer__content {
