@@ -296,7 +296,7 @@ input {
 /*=============== HOME ===============*/
 .home__img {
   position: absolute;
-  top: 0;
+  top: 55px;
   left: 0;
   width: 100%;
   height: 100vh;
@@ -714,6 +714,7 @@ input {
 /*=============== FOOTER ===============*/
 .footer__container {
   row-gap: 5rem;
+  position: relative;
 }
 
 .footer__content {
