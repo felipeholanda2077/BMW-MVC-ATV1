@@ -306,6 +306,7 @@ input {
 
 .Info {
     background-color: #1A91DA;
+    height: 45px;
 }
 .home__container {
   position: relative;

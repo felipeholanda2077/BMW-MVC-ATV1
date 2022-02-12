@@ -1,41 +1,53 @@
 @model Formulario
 
 <!--=============== REMIXICONS ===============-->
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 
-    <!--=============== SWIPER CSS ===============-->
-    <link rel="stylesheet" href="/css/swiper-bundle.min.css">
+<!--=============== SWIPER CSS ===============-->
+<link rel="stylesheet" href="/css/swiper-bundle.min.css">
 
-    <!--=============== CSS ===============-->
-    <link rel="stylesheet" href="/css/styles.css">
+<!--=============== CSS ===============-->
+<link rel="stylesheet" href="/css/styles.css">
 
 <div class="row justify-content-md-center">
     <form method="POST" asp-action="Cadastro" class="col-md-4">
 
         <h2>
             <label asp-for="Nome">Informe seu Nome:</label>
-            <input asp-for="Nome" class="Info" required>
+            <h2><input asp-for="Nome" class="Info" required></h2>
         </h2>
 
-        <h2>
-            <label asp-for="Modelo">Modelo:</label>
-            <input asp-for="Modelo" class="Info" required>
-        </h2>
+
+        <div>
+            <h2>
+                <label>Modelo:</label>
+                <select id="Modelo" class="Info" required>
+                    <option selected disabled value="">Selecione</option>
+                    <option>BMW M4</option>
+                    <option>BMw Série 2 Gran Coupé</option>
+                    <option>BMW Série 3 Sedã</option>
+                    <option>BMW i4</option>
+                    <option>BMW X1</option>
+                    <option>BMW X3</option>
+                    <option>BMW X4</option>
+                </select>
+            </h2>
+        </div>
 
         <h2>
             <label asp-for="Ano">Informe o ano do seu veiculo:</label>
             <input asp-for="Ano" class="Info" type="date" required>
         </h2>
 
-        <h3>
-            <a><input type="submit" value="Enviar" href="/Home/Cadastrado"></a>
-        </h3>
-
+        <button class="button button--flex place__button">
+            <i class="ri-arrow-right-line"></i>
+            <a><input type="submit" href="/Home/Cadastrado"></a>
+        </button>
     </form>
 </div>
 
 <!--=============== SWIPER JS ===============-->
-    <script src="/js/swiper-bundle.min.js"></script>
+<script src="/js/swiper-bundle.min.js"></script>
 
-    <!--=============== MAIN JS ===============-->
-    <script src="/js/main.js"></script>
+<!--=============== MAIN JS ===============-->
+<script src="/js/main.js"></script>
