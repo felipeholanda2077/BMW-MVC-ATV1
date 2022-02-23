@@ -25,6 +25,7 @@ Projeto de um site feito em .Net MVC da Bmw evolução do site principal da bmw 
 
 #### Ferramentas
 - [**VS CODE**](https://code.visualstudio.com/)
+- [**Bootstrap**](https://getbootstrap.com/)
 
 
 <h4 align=center>Desenvolvido por Felipe Holanda <a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/"> <strong>Entre em contato</strong> :)</a></a></h4>
