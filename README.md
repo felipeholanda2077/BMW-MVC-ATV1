@@ -10,10 +10,6 @@
  <h4> 🚧 Projeto BMW-MVC Senac🚀 Em construção... 🚧
   </h4>
 
-<h1 aling="center">
-   <img alt="Readme" title="Readme" src="Animação.gif"/>
-</h1>
-
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
 
