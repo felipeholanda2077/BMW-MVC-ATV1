@@ -18,7 +18,6 @@ Projeto de um site feito em .Net MVC da Bmw evolução do site principal da bmw 
 
 ## Tecnologias
 
-- [x] **.NET**
 - [x] **HTML**
 - [x] **CSS**
 - [x] **JAVASCRIPT**
