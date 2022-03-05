@@ -7,7 +7,7 @@
 <br>
 
 <p aling="center">
- <h4> 🚧 Projeto BMW-MVC Senac🚀 Em construção... 🚧
+ <h4> 🚧 Projeto BMW-MVC Senac🚀 Finalizado com sucesso ✨
   </h4>
 
 <!--Sobre o projeto-->
