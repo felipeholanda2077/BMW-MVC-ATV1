@@ -1,14 +1,14 @@
 <h1 align="center">BMW-MVC-ATV1</h1>
 
 <p align="center">
+ <h4 align="center"> Projeto BMW-MVC Senac🚀 Finalizado com sucesso ✨
+  </h4>
+
+<p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#tecnologias">Tecnologias</a>
 </p>
 <br>
-
-<p align="center">
- <h4 align="center"> Projeto BMW-MVC Senac🚀 Finalizado com sucesso ✨
-  </h4>
 
 <!--Sobre o projeto-->
 <h2 align="center">💻 Sobre o projeto</h2>
