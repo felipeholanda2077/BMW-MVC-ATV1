@@ -1,4 +1,4 @@
-# BMW-MVC-ATV1
+<h1 align="center">BMW-MVC-ATV1L</h1>
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
@@ -6,14 +6,14 @@
 </p>
 <br>
 
-<p aling="center">
+<p align="center">
  <h4> Projeto BMW-MVC Senac🚀 Finalizado com sucesso ✨
   </h4>
 
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
 
-Projeto de um site feito em .Net MVC da Bmw evolução do site principal da bmw atulamente privado no GitHUb
+<h3 align="center">Projeto de um site feito em .Net MVC da Bmw evolução do site principal da bmw atulamente privado no GitHUb</h3>
 
 
 ## Tecnologias
