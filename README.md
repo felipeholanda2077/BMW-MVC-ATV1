@@ -1,4 +1,4 @@
-<h1 align="center">BMW-MVC-ATV1L</h1>
+<h1 align="center">BMW-MVC-ATV1</h1>
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
@@ -11,7 +11,7 @@
   </h4>
 
 <!--Sobre o projeto-->
-## 💻 Sobre o projeto
+<h2 align="center">💻 Sobre o projeto</h2>
 
 <h3 align="center">Projeto de um site feito em .Net MVC da Bmw evolução do site principal da bmw atulamente privado no GitHUb</h3>
 
