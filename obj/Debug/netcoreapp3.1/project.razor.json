@@ -14442,6 +14442,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Carros.cshtml",
+      "TargetPath": "Views\\Home\\Carros.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\felip\\OneDrive\\Documentos\\BMW-MVC\\Views\\Home\\Proposta.cshtml",
       "TargetPath": "Views\\Home\\Proposta.cshtml",
       "FileKind": "mvc"
